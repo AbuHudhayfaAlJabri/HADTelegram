@@ -1,6 +1,6 @@
-Version 3.4.0 Changelog:
+Version 3.5.0 Changelog:
 
-> Update source code to v10.9.1.1.
+> Update source code to v10.13.1.2.
 > (Exclusive) Added Anti-delete messages
 > (Exclusive) Save media and Copy messages from Closed channels and groups.
 > Boosts for Groups.
